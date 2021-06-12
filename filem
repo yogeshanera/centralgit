@@ -1,0 +1,6 @@
+print("Welcome to github")
+q=int(input("Enter the number")
+if q%2==0:
+    print(q,"is even")
+else:
+    print(q,"is odd")
